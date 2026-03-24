@@ -1,3 +1,3 @@
-foo <- function() {
+foo2 <- function() {
   1
 }
